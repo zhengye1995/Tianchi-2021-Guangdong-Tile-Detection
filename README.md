@@ -7,7 +7,7 @@
 
 ## Siamese Attention FPN 特征差+spatial attention思路
 ## core slides:
-![Aaron Swartz](https://github.com/zhengye1995/Tianchi-2021-Guangdong-Tile-Detection/tree/main/temp_image/saf.png)
+![Aaron Swartz](https://github.com/zhengye1995/Tianchi-2021-Guangdong-Tile-Detection/blob/main/temp_image/saf.png)
 + Siamese Attention FPN
     - 基本框架：Cascade-RCNN
     - backbone： resnet50
